@@ -1,0 +1,24 @@
+/* These styles will apply to the entire page */
+body{
+    background-color: rgb(92, 154, 156);
+    color: rgb(158, 46, 2);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* These are the styles for the page titles */
+h1{
+    color: rgb(50, 112, 50);
+    font-size: xx-large;
+}
+
+h2{
+    color: indigo;
+}
+
+h3{
+    color: maroon;
+}
+
+p{
+    font-size: x-large;
+}
